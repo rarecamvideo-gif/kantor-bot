@@ -1,0 +1,107 @@
+{
+ "updated": "05:54:32",
+ "date": "04 Nov 2026",
+ "locks": {
+  "vectorizer": null,
+  "heavy_cpu": null
+ },
+ "downloads_latest": "/home/box/Downloads/010-a.svg",
+ "bots": [
+  {
+   "id": "sup",
+   "name": "Supervisor",
+   "job": "Bos, ngatur & mantau semua bot",
+   "status": "sibuk",
+   "level": "ngebut",
+   "mins": 0,
+   "line": "Lagi mantau tim",
+   "last": "05:54",
+   "task": "Ngecek lock & folder kerja tiap bot",
+   "evidence": "collector jalan"
+  },
+  {
+   "id": "fi",
+   "name": "Flow Icon",
+   "job": "Set ikon isometric",
+   "status": "sibuk",
+   "level": "ngebut",
+   "mins": 0,
+   "line": "Ngebut icons-2026-11-04: 0 SVG",
+   "last": "05:54",
+   "task": "icons-2026-11-04: 0 SVG",
+   "evidence": "/workspace/flow/icons-2026-11-04/qc/c2s2_14.jpg"
+  },
+  {
+   "id": "fv",
+   "name": "Flow Vector",
+   "job": "Ilustrasi vektor",
+   "status": "tidur",
+   "level": "tidur",
+   "mins": 498,
+   "line": "Tidur · terakhir aktif 03/11 21:36 WIB",
+   "last": "03/11 21:36",
+   "task": "vectorize 179/186",
+   "evidence": "/workspace/flow/main-2026-11-03/out/vector-2026-11-03-eps-part7.zip"
+  },
+  {
+   "id": "png",
+   "name": "PNG",
+   "job": "Foto realistis PNG transparan",
+   "status": "sibuk",
+   "level": "ngebut",
+   "mins": 0,
+   "line": "Ngebut upscale o31",
+   "last": "05:54",
+   "task": "upscale o31",
+   "evidence": "/workspace/png/2026-11-03/work/o31_birefnet-general_mask.png"
+  },
+  {
+   "id": "ans",
+   "name": "Answerly",
+   "job": "YouTube Shorts bahasa Inggris",
+   "status": "tidur",
+   "level": "tidur",
+   "mins": 1168,
+   "line": "Tidur · terakhir aktif 03/11 10:25 WIB",
+   "last": "03/11 10:25",
+   "task": "bikin/jadwalin Shorts",
+   "evidence": "/workspace/answerly_daily/log.md"
+  },
+  {
+   "id": "ni",
+   "name": "Naskah Indo",
+   "job": "Video explainer bahasa Indonesia",
+   "status": "tidur",
+   "level": "tidur",
+   "mins": 465,
+   "line": "Tidur · terakhir aktif 03/11 22:09 WIB",
+   "last": "03/11 22:09",
+   "task": "nulis naskah",
+   "evidence": "/workspace/tutorial_kit/proyek/kemiskinan_struktural/preview_480p.mp4"
+  },
+  {
+   "id": "sv",
+   "name": "Stock Video",
+   "job": "Klip transisi 4K",
+   "status": "sibuk",
+   "level": "sibuk",
+   "mins": 12,
+   "line": "Lagi render klip",
+   "last": "05:42",
+   "task": "render klip",
+   "evidence": "/workspace/stock_3d/final/blender_lightbulb_idea.log"
+  },
+  {
+   "id": "oi",
+   "name": "Outline Icon",
+   "job": "Set ikon outline",
+   "status": "tidur",
+   "level": "tidur",
+   "mins": 2548,
+   "line": "Tidur · terakhir aktif 02/11 11:25 WIB",
+   "last": "02/11 11:25",
+   "task": "bikin ikon outline",
+   "evidence": "/workspace/outline-icon/delivery/outline-icons-2026-10-27.zip"
+  }
+ ]
+}

@@ -1,0 +1,107 @@
+{
+ "updated": "10:34:05",
+ "date": "07 Nov 2026",
+ "locks": {
+  "vectorizer": "Flow Icon",
+  "heavy_cpu": null
+ },
+ "downloads_latest": "/home/box/Downloads/download (65).zip",
+ "bots": [
+  {
+   "id": "sup",
+   "name": "Supervisor",
+   "job": "Bos, ngatur & mantau semua bot",
+   "status": "sibuk",
+   "level": "ngebut",
+   "mins": 0,
+   "line": "Lagi mantau tim",
+   "last": "10:34",
+   "task": "Ngecek lock & folder kerja tiap bot",
+   "evidence": "collector jalan"
+  },
+  {
+   "id": "fi",
+   "name": "Flow Icon",
+   "job": "Set ikon isometric",
+   "status": "sibuk",
+   "level": "ngebut",
+   "mins": 1,
+   "line": "Ngebut icons-2026-11-04: 123 SVG",
+   "last": "10:32",
+   "task": "icons-2026-11-04: 123 SVG",
+   "evidence": "/workspace/flow/icons-2026-11-04/svg/m1-084-a.svg"
+  },
+  {
+   "id": "fv",
+   "name": "Flow Vector",
+   "job": "Ilustrasi vektor",
+   "status": "sibuk",
+   "level": "ngebut",
+   "mins": 0,
+   "line": "Ngebut vectorize 179/390",
+   "last": "10:33",
+   "task": "vectorize 179/390",
+   "evidence": "/workspace/flow/main-2026-11-03/hashes.txt"
+  },
+  {
+   "id": "png",
+   "name": "PNG",
+   "job": "Foto realistis PNG transparan",
+   "status": "tidur",
+   "level": "tidur",
+   "mins": 4542,
+   "line": "Tidur · terakhir aktif 04/11 06:51 WIB",
+   "last": "04/11 06:51",
+   "task": "selesai o47",
+   "evidence": "/workspace/png/2026-11-03/run.log"
+  },
+  {
+   "id": "ans",
+   "name": "Answerly",
+   "job": "YouTube Shorts bahasa Inggris",
+   "status": "tidur",
+   "level": "tidur",
+   "mins": 5768,
+   "line": "Tidur · terakhir aktif 03/11 10:25 WIB",
+   "last": "03/11 10:25",
+   "task": "bikin/jadwalin Shorts",
+   "evidence": "/workspace/answerly_daily/log.md"
+  },
+  {
+   "id": "ni",
+   "name": "Naskah Indo",
+   "job": "Video explainer bahasa Indonesia",
+   "status": "sibuk",
+   "level": "ngebut",
+   "mins": 2,
+   "line": "Ngebut nulis naskah",
+   "last": "10:31",
+   "task": "nulis naskah",
+   "evidence": "/workspace/tutorial_kit/proyek/daya_beli/revisi_v2/output/technical_qc_v2.json"
+  },
+  {
+   "id": "sv",
+   "name": "Stock Video",
+   "job": "Klip transisi 4K",
+   "status": "tidur",
+   "level": "tidur",
+   "mins": 4277,
+   "line": "Tidur · terakhir aktif 04/11 11:16 WIB",
+   "last": "04/11 11:16",
+   "task": "render klip",
+   "evidence": "/workspace/stock_3d/final/render.log"
+  },
+  {
+   "id": "oi",
+   "name": "Outline Icon",
+   "job": "Set ikon outline",
+   "status": "tidur",
+   "level": "santai",
+   "mins": 39,
+   "line": "Santai · terakhir aktif 09:54 WIB",
+   "last": "09:54",
+   "task": "bikin ikon outline",
+   "evidence": "/workspace/outline-icon/2026-11-07/vectorizer-input/adobe-stock-metadata-pending.csv"
+  }
+ ]
+}
